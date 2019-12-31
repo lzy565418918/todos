@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>备忘录</h1>
+    <HelloWorld msg="计划要做什么呢？"/>
   </div>
 </template>
 
@@ -24,5 +24,12 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  h1{
+    color: #ead7d7;
+  }
+}
+body{
+  background-color: #f5f5f5;
+
 }
 </style>
