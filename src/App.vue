@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>备忘录</h1>
+    <h1>备忘录test</h1>
     <HelloWorld msg="计划要做什么呢？"/>
   </div>
 </template>
